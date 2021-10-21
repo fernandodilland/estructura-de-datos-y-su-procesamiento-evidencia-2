@@ -1,4 +1,4 @@
-# Evidencia 1 (Estructura de datos y su procesamiento)
+# Evidencia 2 (Estructura de datos y su procesamiento)
 Repositorio con código generado para la Evidencia 1 de la materia Estructura de Datos y su Procesamiento.
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
@@ -14,10 +14,10 @@ Repositorio con código generado para la Evidencia 1 de la materia Estructura de
 Requisitos previos:
 - Instalado Python (3.10.0 o superior) en Windows, Linux/UNIX ó macOS ([descarga](https://www.python.org/downloads/)).
 - Instalado Thonny, Visual Studio Code, cualquier IDLE de Python o editor de código.
-- Descargar repositorio y/o archivo Evidencia1.py.
+- Descargar repositorio y/o archivo Evidencia2.py.
 
 Procedimiento:
-- Abrir en el IDLE o editor de código el archivo Evidencia1.py.
+- Abrir en el IDLE o editor de código el archivo Evidencia2.py.
 - Ejecutar el código intepretado.
 
 ## Instrucciones de uso
@@ -25,4 +25,4 @@ Procedimiento:
 
 ## Licencia
 
-[estructura-de-datos-y-su-procesamiento-evidencia-1](https://github.com/fernandomireles/estructura-de-datos-y-su-procesamiento-evidencia-1/) are released under [MIT license](https://github.com/fernandomireles/estructura-de-datos-y-su-procesamiento-evidencia-1/blob/main/LICENSE).
+[estructura-de-datos-y-su-procesamiento-evidencia-2](https://github.com/fernandomireles/estructura-de-datos-y-su-procesamiento-evidencia-2/) are released under [MIT license](https://github.com/fernandomireles/estructura-de-datos-y-su-procesamiento-evidencia-2/blob/main/LICENSE).
