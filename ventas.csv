@@ -1,0 +1,5 @@
+1,[Ventas(descripcion='Michelin', cantidadVenta=4, precioVenta=775.86, fechaVenta='25/10/2021')]
+2,[Ventas(descripcion='Continental', cantidadVenta=2, precioVenta=862.07, fechaVenta='25/10/2021')]
+3,[Ventas(descripcion='Continental', cantidadVenta=2, precioVenta=862.07, fechaVenta='25/10/2021'), Ventas(descripcion='Goodyear', cantidadVenta=2, precioVenta=991.38, fechaVenta='25/10/2021')]
+4,[Ventas(descripcion='Bridgestone', cantidadVenta=2, precioVenta=1120.69, fechaVenta='26/10/2021'), Ventas(descripcion='Yokohama', cantidadVenta=1, precioVenta=905.17, fechaVenta='26/10/2021')]
+5,[Ventas(descripcion='Nexen', cantidadVenta=4, precioVenta=948.28, fechaVenta='27/10/2021')]
