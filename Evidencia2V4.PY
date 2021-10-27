@@ -18,7 +18,6 @@ if os.path.exists('ventas.csv'):
     print('Ya existe un archivo \"ventas.csv" en el mismo directorio')
     with open('ventas.csv','r')as archivo:
         ContenidoArchivo = csv.reader(archivo)
-        #DiccionarioVentas=ContenidoArchivo
         
         for fila in ContenidoArchivo: # Lector fila por fila del archivo
             contadorTamanioFila = 5
